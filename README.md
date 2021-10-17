@@ -41,3 +41,6 @@ perfect 1 2 6 28 600
 ```
 docker run -it --rm --name perfect 1 2 6 28 600
 ```
+
+## License
+[MIT](./LICENSE)
